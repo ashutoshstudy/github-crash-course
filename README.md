@@ -1,1 +1,1 @@
-# githib-crash-course
+# github-crash-course
